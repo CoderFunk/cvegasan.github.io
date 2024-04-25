@@ -6,6 +6,7 @@ body *{                   /* reseteo de etiquetas (*) significa todo, todas las 
     margin: 0px;
     border: 0px;     /* rich black hexadecimal #RRGGBB*/
     padding: 0px;          /* sin margenes a los lados */
+    background-color: #1da1f2; /* creando el caos por nestor muñoz*/
 }
 .navbar .navbar-nav > a.btn {
     border-width: 2px;
